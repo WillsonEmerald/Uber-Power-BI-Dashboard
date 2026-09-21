@@ -103,9 +103,7 @@ The Power BI dashboard provides an interactive view of Uber's booking and revenu
 
 ![Booking Analysis](Uber%20Dashbord/screenshots/booking-analysis.png)
 
-### Lost Bookings & Cancellations
 
-![Cancellation Analysis](Uber%20Dashbord/screenshots/cancellation-analysis.png)
 
 # 💡 Key Insights
 
