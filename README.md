@@ -89,23 +89,23 @@ The dashboard was designed around several practical business questions:
 
 The Power BI dashboard provides an interactive view of Uber's booking and revenue performance.
 
+## 📊 Dashboard Preview
+
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](Uber%20Dashbord/screenshots/dashboard-overview.png)
 
 ### Revenue & Vehicle Analysis
 
-![Revenue Analysis](screenshots/revenue-analysis.png)
+![Revenue Analysis](Uber%20Dashbord/screenshots/revenue-analysis.png)
 
 ### Booking & Demand Analysis
 
-![Booking Analysis](screenshots/booking-analysis.png)
+![Booking Analysis](Uber%20Dashbord/screenshots/booking-analysis.png)
 
 ### Lost Bookings & Cancellations
 
-![Cancellation Analysis](screenshots/cancellation-analysis.png)
-
----
+![Cancellation Analysis](Uber%20Dashbord/screenshots/cancellation-analysis.png)
 
 # 💡 Key Insights
 
